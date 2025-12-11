@@ -1,6 +1,6 @@
 # Supermarket Product Sales Analysis - ML Application
 
-A comprehensive Tkinter desktop application for analyzing supermarket product sales data using Machine Learning techniques.
+A comprehensive application for analyzing supermarket product sales data using Machine Learning techniques.
 
 ## Features
 
