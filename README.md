@@ -1,5 +1,4 @@
-# Supermarket Product Sales Analysis - ML Application
-
+# Supermarket Product Sales Analysis
 A comprehensive application for analyzing supermarket product sales data using Machine Learning techniques.
 
 ## Features
